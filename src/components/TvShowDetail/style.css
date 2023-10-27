@@ -1,0 +1,23 @@
+.detail-container{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.title{
+    font-weight: 400;
+    font-size: 35px;
+}
+.rating_container{
+    display: flex;
+    gap: 5px;
+    
+}
+.rating{
+    margin-top: 3px;
+}
+.overview{
+    font-family: Roboto,'sans-serif';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.6;
+}

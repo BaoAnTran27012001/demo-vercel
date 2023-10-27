@@ -1,0 +1,21 @@
+.item-container{
+    width: 300px;
+    position: relative;
+}
+.movie-name{
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: 18px;
+    letter-spacing: 1px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 5px;
+}
+.image{
+    border-radius: 3px;
+}
+.container{
+    position: relative;
+}
